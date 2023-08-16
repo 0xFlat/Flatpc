@@ -9,33 +9,33 @@ const Readme: FC<ReadmeProps> = ({}) => {
       <div>
         <h1 style={{ marginTop: 0 }}>🇳🇬🇿🇼🇬🇭 ATTENTION 🇬🇭🇿🇼🇳🇬</h1>
         <p>
-          This website is a community contribution made with love by Monero
-          Mandela -- world acclaimed autist, retard, visionary, and
+          This website is a community contribution made with love by Mr
+          Flatter -- world acclaimed autist, retard, visionary, and
           philanthropist.
         </p>
         <p>
-          If sers like this contribution, the Honorable Monero Mandela will
-          accept tokens of appreciation in $MONERO or $BITCOIN only. No
+          If sers like this contribution, the Honorable Mr Flatter will
+          accept tokens of appreciation in $FLAT or $MOG only. No
           shitcoins.
         </p>
         <p>
-          Pls sers feed ma familia. Mandela seeks your generous contributions
-          for downpayment on new mudhut in outskirts of Nairobi, and maybe for
-          some droogs.
+          Pls sers feed ma familia. Mr Flatter seeks your generous contributions
+          for crack and prostitues, and maybe for
+          some food.
         </p>
         <p>
           Donation Address:{" "}
           <a
             className="dontaion"
-            href="https://etherscan.io/address/0x8da6a95a3fcda0ad05185876a40cce0568a3c155"
+            href="https://etherscan.io/address/0xfb1b9a294fe5ddeb120ca7324943987342eddf24"
           >
-            0x8da6a95a3fcda0ad05185876a40cce0568a3c155
+            0xfb1b9a294fe5ddeb120ca7324943987342eddf24
           </a>
         </p>
         <p>
           Github repository:{" "}
-          <a href="https://github.com/monero-mandela/monero-web">
-            https://github.com/monero-mandela/monero-web
+          <a href="https://0xflat.github.io/flatearth/">
+            https://0xflat.github.io/flatearth/
           </a>
         </p>
       </div>

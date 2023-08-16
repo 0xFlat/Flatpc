@@ -12,11 +12,11 @@ Donation address: 0x8da6a95a3fcda0ad05185876a40cce0568a3c155
 
 ## Learn More About $MONERO
 
-- [Chart](https://www.dextools.io/app/en/ether/pair-explorer/0x1e9e20080f06c4983d1e3ba8f3aa39c41fb561dd)
+- [Chart](https://www.dextools.io/app/en/ether/pair-explorer/0x9dc4f12d738c2c1b045dafa8dc3a18df06dce2b5)
 
-- [Twitter](https://twitter.com/fefmlmku1984)
+- [Twitter](https://twitter.com/flatearthmoney)
 
-- [Telegram](https://t.me/FakeMoonBase)
+- [Telegram](https://t.me/questionthecurvature)
 
 ## Commands for using the repository
 

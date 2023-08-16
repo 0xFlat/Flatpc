@@ -17,9 +17,9 @@ const AboutMonero: FC<AboutMoneroProps> = ({}) => {
         </div>
 
         <a href="https://app.uniswap.org/#/swap?&chain=mainnet&use=v2&outputCurrency=0x6A8A637331801981A0FB29aacc3afa732b072d55">
-          BUY $MONERO
+          BUY $FLAT
         </a>
-        <p>OrwellsArchive@protonmail.com</p>
+        <p>FLATAF@protonmail.com</p>
 
         <p>
           In the realm of flat Earth truths, a web of deception has woven itself
@@ -52,7 +52,7 @@ const AboutMonero: FC<AboutMoneroProps> = ({}) => {
           move, blurring the line between reality and fiction.
           <br />
           <br />
-          In the midst of the enigma "$MONERO" emerges, embodying the essence of
+          In the midst of the enigma "$FLAT" emerges, embodying the essence of
           the Quest and its profound discoveries. To those who embrace this flat
           Earth truth, it represents a profound store of value that defies
           conventional understanding.

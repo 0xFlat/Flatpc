@@ -44,7 +44,7 @@ const isMobile = window.innerWidth < 768;
 
 export const desktopItems = [
   {
-    title: "About $MONERO",
+    title: "About $FLAT",
     icon: <DesktopIconSC src={mainLogo} />,
     shown: false,
     url: undefined,
@@ -84,10 +84,10 @@ export const desktopItems = [
     show: isMobile ? true : true,
   },
   {
-    title: "Buy $MONERO",
+    title: "Buy $FLAT",
     icon: <DesktopIconSC src={uniswapImage} />,
     shown: false,
-    url: "https://app.uniswap.org/#/swap?&chain=mainnet&use=v2&outputCurrency=0x6A8A637331801981A0FB29aacc3afa732b072d55",
+    url: "https://app.uniswap.org/#/swap?&chain=mainnet&use=v2&outputCurrency=0xfb1b9a294fe5ddeb120ca7324943987342eddf24",
     height: isMobile ? 400 : 650,
     width: isMobile ? 300 : 650,
     show: isMobile ? true : true,
@@ -96,7 +96,7 @@ export const desktopItems = [
     title: "Dextools",
     icon: <DesktopIconSC src={dextoolsImage} />,
     shown: false,
-    url: "https://www.dextools.io/app/en/ether/pair-explorer/0x1e9e20080f06c4983d1e3ba8f3aa39c41fb561dd",
+    url: "https://www.dextools.io/app/en/ether/pair-explorer/0xfb1b9a294fe5ddeb120ca7324943987342eddf24",
     height: isMobile ? 400 : 650,
     width: isMobile ? 300 : 650,
     show: isMobile ? true : true,
@@ -105,7 +105,7 @@ export const desktopItems = [
     title: "Telegram",
     icon: <DesktopIconSC src={telegramImage} />,
     shown: false,
-    url: "https://t.me/FakeMoonBase",
+    url: "https://t.me/questionthecurvature",
     height: isMobile ? 400 : 650,
     width: isMobile ? 300 : 650,
     show: isMobile ? true : true,
@@ -114,7 +114,7 @@ export const desktopItems = [
     title: "Twitter",
     icon: <DesktopIconSC src={twitterImage} />,
     shown: false,
-    url: "https://twitter.com/fefmlmku1984",
+    url: "https://twitter.com/flatearthmoney",
   },
   {
     title: "ReadMe.txt",
@@ -268,7 +268,7 @@ const Desktop: FC<DesktopProps> = ({}) => {
         ))}
       </div>
       <a
-        href="https://app.uniswap.org/#/swap?&chain=mainnet&use=v2&outputCurrency=0x6A8A637331801981A0FB29aacc3afa732b072d55"
+        href="https://app.uniswap.org/#/swap?&chain=mainnet&use=v2&outputCurrency=0xfb1b9a294fe5ddeb120ca7324943987342eddf24"
         className="ticker"
         target="_blank"
         rel="noopener noreferrer"

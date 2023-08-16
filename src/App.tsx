@@ -37,14 +37,14 @@ function App() {
           </div>
           <p>An error has occured. To continue:</p>
           <p>
-            Click "I AM GAY" below and press Enter to return to your desktop,
+            Click "I AM NOT AN NPC" below and press Enter to return to your desktop,
             or:
           </p>
           <p>
             Press CTRL+ALT+DEL to restart your computer. But be warned, doing so
-            has a chance to initiate anal probe.
+            has a chance to initiate poverty.
           </p>
-          <p>Error: 69 : 420 : 5UP3RG4Y</p>
+          <p>Error: 69 : 420 : 99ers</p>
           <p style={{ textAlign: "center" }}>Click to continue:</p>
           <div
             style={{
@@ -61,7 +61,7 @@ function App() {
                 await gayFrogsSound.play();
               }}
             >
-              I AM GAY
+              I AM NOT AN NPC
             </Button>
           </div>
         </div>
@@ -76,18 +76,18 @@ function App() {
         <Alert
           title="Do you accept the truth?"
           style={{ zIndex: 5 }}
-          message="Moon landing, fake and gay or real?"
+          message="Flat earth, real or fake?"
           closeAlert={() => toggleFakeGayShown(false)}
           buttons={[
             {
-              value: "FAKE & GAY",
+              value: "FAKE NEWS",
               onClick: async () => {
                 await gayFrogsSound.play();
                 toggleFakeGayShown(false);
               },
             },
             {
-              value: "REAL",
+              value: "FLAT AF",
               onClick: async () => {
                 await yRUGaySound.play();
                 toggleBsod(true);
